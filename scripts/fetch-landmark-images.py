@@ -37,6 +37,7 @@ LANDMARK_URLS: dict[str, str] = {
     "iv-perfect-park": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Isla_Vista_CA_%282014%29_02.JPG/1280px-Isla_Vista_CA_%282014%29_02.JPG",
     # Pardall / loop — Super Cuca's is on Madrid just off this strip (no CC storefront found).
     "iv-super-cucas": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Isla_Vista_CA_%282014%29_02.JPG/1280px-Isla_Vista_CA_%282014%29_02.JPG",
+    "iv-ucsb": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/UCSB_University_Center_and_Storke_Tower.jpg/1280px-UCSB_University_Center_and_Storke_Tower.jpg",
 }
 
 

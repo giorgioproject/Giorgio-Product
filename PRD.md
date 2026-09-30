@@ -1,6 +1,6 @@
 # PRD — Barbara Chase
 
-**Author:** Giorgio Braccia  ·  **Birth date:** 6 September 2001  ·  **Date:** 2026-09-29  ·  **Version:** 0.4
+**Author:** Giorgio Braccia  ·  **Birth date:** 6 September 2001  ·  **Date:** 2026-09-30  ·  **Version:** 0.5
 
 > **How to fill this file**
 > - Fill in **sections 1–4** (required). Sections **5–8** are optional but make the agent far more accurate.
@@ -19,7 +19,7 @@
 ## 1. Product Summary
 
 - **One-liner:** For a 9–12 year old on a family trip who walked one of three local downtowns today, **Barbara Chase** is a Pac-Man-style chase on the **real street grid** (OpenStreetMap) so they can play tonight and name a few streets tomorrow.
-- **TL;DR:** Laptop/desktop, landscape. **Start screen:** pick **one of three characters** (same as today) + **one of three maps** (Solvang, Downtown Santa Barbara, Isla Vista). **Play:** one shared game screen loads that map’s graph — full board visible, arrow keys, ghost chase, pellets, landmark photos. Success = next morning they can name **2–3 streets or areas** from the map they played.
+- **TL;DR:** Laptop/desktop, landscape. **Start screen:** pick **one of three characters** + **one of three maps** (Isla Vista, Solvang, Downtown Santa Barbara) — each map card shows a **landscape photo** and **street preview**. **Play:** shared chase screen — overview then zoom toward the player, **arrow keys or on-screen pad**, ghost chase, pellets, landmark photos, optional **music on/off**. Success = next morning they can name **2–3 streets or areas** from the map they played.
 
 ## 2. Target Customer
 
@@ -29,8 +29,8 @@
   1. Already walked **one** of the three areas today; evening gap.
   2. Wants a **game**, not a map lesson or trivia quiz.
   3. Parent wants landmarks and street names to stick.
-  4. Uses **keyboard arrow keys** (no on-screen arrow pad required on desktop).
-  5. Start screen should feel alive — character choice, map previews, landmark photos.
+  4. Uses **keyboard arrow keys** and/or the **on-screen direction pad** (pad labels match map north on Downtown).
+  5. Start screen should feel alive — character choice, **map cards** (landscape + preview), **music toggle**.
 
 ## 3. Customer Problems & the Bet
 
@@ -45,36 +45,39 @@
 
 **Key user stories**
 - As a kid, I want to **pick my character** (boy, girl, or dolphin) and **pick a map** before I start.
-- As a kid, I want to **use arrow keys** to move my character and run from a **ghost that follows me**.
+- As a kid, I want to **use arrow keys or the pad** to move and run from **ghost(s)** on my map.
 - As a parent, I want **photos on the map** I can tap to learn what each place is.
-- As a player, I want the **whole map on screen** — no scrolling camera follow — so I can plan routes like a board game.
+- As a player, I want to **see the whole map at first**, then **play closer to my character** and **drag** to look around — like a board game I can peek at.
 
 **Must-haves for v1**
 
 | ID | Requirement | Priority | Acceptance criterion |
 |----|-------------|----------|----------------------|
-| R1 | Three OSM street boards (seed JSON) | P0 | Solvang, Downtown Santa Barbara, Isla Vista each have `data/graph-<map-id>.json`. After Play → that map’s grid visible. Never blank. |
-| R2 | Map picker on start | P0 | Start screen shows **3 map cards**: name, preview image, difficulty label. Tap one → selected state. Play uses that map. |
-| R3 | Character picker (unchanged) | P0 | **Three** playable characters (boy, girl, dolphin). Same sprites/behavior as today; only the **map** changes between games. |
+| R1 | Three OSM street boards (seed JSON) | P0 | Solvang, Downtown Santa Barbara, Isla Vista each have `data/graph-<map-id>.json`. After Play → that map’s streets visible. Never blank. |
+| R2 | Map picker on start | P0 | Start screen shows **3 map cards**: name, difficulty, **landscape image**, **SVG street preview**. Tap one → selected state. Play uses that map. |
+| R3 | Character picker | P0 | **Three** playable characters (boy, girl, dolphin). Only the **map** changes between games. |
 | R4 | Remember choices | P0 | Last **map id** and **character id** in **localStorage**. Refresh → start screen restores both selections. |
-| R5 | Keyboard arrows | P0 | Arrow keys turn at the next corner (queued). Works on laptop without on-screen pad. |
-| R6 | Fixed full-map view | P0 | Entire playable graph fits in the game viewport (landscape). **No** camera follow / no pan-to-player during chase. |
-| R7 | Yellow Pac-Man-style player | P0 | Character sprite rotates to face movement. |
-| R8 | Ghost + chase AI | P0 | Ghost **follows** player (greedy shortest path), ~80% player speed. |
-| R9 | Pellets per map | P0 | Yellow pellets on streets; spacing tuned per map so a round is ~**1–3 minutes**. Clear all → win card. |
-| R10 | Landmark photos | P0 | Per-map landmark seed (`data/landmarks-<map-id>.json`). Thumbnails on map; tap → card with photo + name + blurb; chase pauses until closed. |
-| R11 | Interactive start | P0 | Landmark photo grid (for **selected map**) + character + map cards + **Play**. Chase does not run until Play. |
+| R5 | Movement input | P0 | **Arrow keys** turn at the next corner (queued). **On-screen direction pad** on the game screen (all maps). Pad can highlight valid turns at the next corner (Downtown). |
+| R6 | Map view (focus camera) | P0 | On Play, **~2s full-map overview**, then view **eases toward the player**. **Drag** the map to pan (no auto-scroll every frame). All three maps use this mode. |
+| R7 | Player sprite | P0 | Character sprite **faces movement** (Pac-Man-style, original art). |
+| R8 | Ghosts + chase AI | P0 | **Ghost count per map:** Isla Vista **1**, Solvang **2**, Downtown **4**. Speed **~70%** of player. At corners, ghosts **hunt** (greedy toward player) or **wander** streets. |
+| R9 | Pellets per map | P0 | Yellow pellets on playable streets; counts in `data/maps.json` (~35 / 45 / 60). Clear all → win card. Round roughly **1–3 minutes** per map tuning. |
+| R10 | Landmark photos | P0 | Per-map seed (`data/landmarks-<map-id>.json`). Icons on map; tap → card with photo + name + blurb; chase pauses until closed. |
+| R11 | Interactive start | P0 | Character picker + **3 map cards** + **Music on/off** + **Play** (disabled until character **and** map chosen). No chase until Play. **No** landmark grid on the start screen. |
 | R12 | Closed roads | P0 | Non-playable OSM ways drawn as blocks + ⛔, not enterable. |
-| R13 | End cards + menu | P0 | Caught/won: dimmed map + card + **Play again** (returns to **start screen**) and **Back to menu** / **Esc** during play. |
-| R14 | HUD | P0 | Shows **map name**, **difficulty**, **score** (pellets), **life** (1 — one tag ends the run). No levels. |
+| R13 | End cards + menu | P0 | Caught/won: overlay + **Play again** / **Back to menu** (both → **start screen**). **Esc** during play → start screen. |
+| R14 | HUD | P0 | **Map name**, **difficulty**, **score** (pellets collected), **pellet progress** (e.g. `12/35`), **one life** (one tag ends the run). No levels. |
 | R15 | Random spawn | P0 | Each Play → different spawn when possible. |
-| R16 | Street names | P0 | Several street names visible on the board for the active map. |
+| R16 | Street names | P0 | Street names on the board, laid out to reduce overlap where possible. |
+| R17 | Background music | P0 | **Music on/off** on start and in-game; choice in **localStorage** (`barbara-chase:musicMuted`). When off, **no** song or chase jingle plays. Song file on welcome/chase; short synth jingles on caught/won/landmark. |
+| R18 | Run recap on end | P0 | Win or caught overlay includes **Your run recap** (2–3 lines about streets/places from the run). Uses **OpenAI** when `OPENAI_API_KEY` is set; otherwise **template fallback** in `lib/recap.ts`. Not a scored quiz. |
+| R19 | Downtown playability | P0 | Downtown graph **rotated/flattened** so arrows match the screen; **looser** corner input than other maps. **Ocean** layer south of streets (Downtown + Isla Vista). |
 
 **Map size (all three)**
 - Each map covers roughly **5×7 city blocks** (compact downtown core), fetched from **OpenStreetMap** via local script (`scripts/fetch-map.py`), not live at runtime.
-- One graph file per map; pellet count/spacing adjusted per map in seed catalog.
+- One graph file per map; pellet count, ghost count, and player speed per map in `data/maps.json`.
 
-**Build order:** `maps.json` + three graph JSON files → multi-map loader in `lib/` → start screen (character + 3 map cards + localStorage) → shared game shell + HUD → movement + ghost + pellets → per-map landmarks → end cards.
+**Build order:** `maps.json` + three graph JSON files → multi-map loader in `lib/` → start screen (character + map cards + prefs) → game shell + focus camera + HUD → movement + ghost + pellets → per-map landmarks + ocean/flatten where needed → music → end cards + recap.
 
 **Explicitly NOT in v1:**
 - **Mobile / phone / tablet** layout or touch-only controls
@@ -87,28 +90,30 @@
 
 ## 5. Data Model
 
-- **MapCatalog** — `data/maps.json` · id, name, difficulty, graphFile, landmarksFile, previewImage, pelletSpacingM
-- **StreetGraph** — `data/graph-downtown-santa-barbara.json` · `data/graph-solvang.json` · `data/graph-isla-vista.json` (bbox, nodes, edges)
+- **MapCatalog** — `data/maps.json` · id, name, difficulty, graphFile, landmarksFile, previewImage, **landscapeImage**, pelletCount, pelletSpacingM, ghostCount, playerSpeedMps
+- **StreetGraph** — `data/graph-downtown-santa-barbara.json` · `data/graph-solvang.json` · `data/graph-isla-vista.json` (bbox, nodes, edges; playable flag on edges)
 - **Landmark** — `data/landmarks-<map-id>.json` · id, name, lat, lon, blurb, imageUrl
-- **PlayerPrefs** — localStorage keys e.g. `barbara-chase:lastMapId`, `barbara-chase:lastCharacterId`
-- **PlaySession** — in-memory only; refresh → start screen with prefs restored
+- **PlayerPrefs** — localStorage · `barbara-chase:lastMapId`, `barbara-chase:lastCharacterId`
+- **MusicPrefs** — localStorage · `barbara-chase:musicMuted` (`"1"` = off)
+- **PlaySession** — in-memory only (game state + run log: street names and landmark ids visited); refresh → start screen with prefs restored
+- **RunRecap** — built from run log + map catalog; server action `app/actions/recap.ts` → `lib/openai.ts` or fallback
 
-**Legacy:** `data/streets.json` may mirror downtown graph until imports are migrated.
+**Legacy:** `data/streets.json` and `data/landmarks.json` may remain for scripts; runtime uses per-map graph and landmark files.
 
 ## 6. Guidance on User Experience
 
-- **Flow:** Start (character + map + landmark grid for selected map) → Play → full-map chase (arrows) → tap landmarks → win or caught → Play again → **start screen**.
-- **Controls:** **Arrow keys** primary on desktop. Esc → start screen.
-- **Visual:** Harbor chrome. Map card previews in `public/maps/`. Landmark images in `public/landmarks/`.
+- **Flow:** Start (character + map cards + music) → Play → overview → chase (arrows/pad, drag map) → tap landmarks → win or caught → recap + **Play again** → **start screen**.
+- **Controls:** Arrow keys and direction pad; drag map to look; Esc → start screen. Helper line under HUD lists controls for the active map.
+- **Visual:** Harbor chrome. Landscape JPGs + SVG previews in `public/maps/`. Landmark images in `public/landmarks/`. Welcome tagline: *Ready to discover Santa Barbara County?*
 
 ## 7. Guidance on Tech Stack / Components
 
 - Next.js page; rules in `lib/`; SVG map + shadcn UI.
 - OSM fetch: `scripts/fetch-map.py` (same pipeline as downtown; per-map bbox).
-- `lib/street-graph.ts` (or `lib/maps.ts`) loads graph by **map id** for the session.
-- Ghost chase in `lib/ghost-ai.ts`.
+- `lib/maps.ts` loads graph/landmarks by **map id**; Downtown play graph via `lib/flatten-graph.ts` + `lib/map-play.ts`.
+- Ghost behavior in `lib/ghost-ai.ts`; ocean in `lib/map-ocean.ts`; music in `lib/game-music.ts` + `components/game-music-*`.
 
 ## 8. Other Info & Open Questions
 
-- **Value line:** “Pac-Man on the real streets we walked today — pick Solvang, downtown SB, or Isla Vista.”
-- **Open questions:** Landmark sets for Solvang and Isla Vista may start small and grow; `[ASSUMPTION]` preview JPGs in `public/maps/` until real screenshots exist.
+- **Value line:** “Pac-Man on the real streets we walked today — pick Isla Vista, Solvang, or downtown SB.”
+- **Open questions:** Landmark sets can grow per map; recap tone when OpenAI is enabled is `[ASSUMPTION]` kid-friendly unless parent feedback says otherwise.

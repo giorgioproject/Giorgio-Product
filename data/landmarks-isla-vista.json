@@ -52,5 +52,14 @@
     "kind": "restaurant",
     "blurb": "6527 Madrid Road — local Mexican burritos and tacos, a few steps off Embarcadero del Norte.",
     "imageUrl": "/landmarks/iv-super-cucas.jpg"
+  },
+  {
+    "id": "iv-ucsb",
+    "name": "UC Santa Barbara",
+    "lat": 34.413722,
+    "lon": -119.84835,
+    "kind": "building",
+    "blurb": "UCSB east of I.V. — Storke Tower and campus, where students cross from Pardall and the tunnel every day.",
+    "imageUrl": "/landmarks/iv-ucsb.jpg"
   }
 ]
