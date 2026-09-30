@@ -1,0 +1,56 @@
+[
+  {
+    "id": "iv-freebirds",
+    "name": "Freebirds World Burrito",
+    "lat": 34.4132715,
+    "lon": -119.8555834,
+    "kind": "restaurant",
+    "blurb": "879 Embarcadero del Norte — the big burrito spot where I.V. meets for lunch and late-night runs.",
+    "imageUrl": "/landmarks/iv-freebirds.jpg"
+  },
+  {
+    "id": "iv-deli-mart",
+    "name": "I.V. Deli Mart",
+    "lat": 34.4129259,
+    "lon": -119.8563993,
+    "kind": "shop",
+    "blurb": "6553 Pardall Road — the corner store everyone knows for snacks, drinks, and late-night stops.",
+    "imageUrl": "/landmarks/iv-deli-mart.jpg"
+  },
+  {
+    "id": "iv-pardall-tunnel",
+    "name": "Pardall Tunnel",
+    "lat": 34.4131331,
+    "lon": -119.8532831,
+    "kind": "monument",
+    "blurb": "The foot tunnel under Highway 217 at Pardall — painted walls and the walk between I.V. and UCSB.",
+    "imageUrl": "/landmarks/iv-pardall-tunnel.jpg"
+  },
+  {
+    "id": "iv-embarcadero",
+    "name": "Embarcadero Hall",
+    "lat": 34.4121559,
+    "lon": -119.8557764,
+    "kind": "building",
+    "blurb": "935 Embarcadero del Norte — a UCSB-owned student hub and landmark building in the heart of I.V.",
+    "imageUrl": "/landmarks/iv-embarcadero.jpg"
+  },
+  {
+    "id": "iv-perfect-park",
+    "name": "Perfect Park",
+    "lat": 34.4112653,
+    "lon": -119.8560856,
+    "kind": "park",
+    "blurb": "Small park at Embarcadero del Norte and Pardall — benches, trees, and a classic meet-up spot.",
+    "imageUrl": "/landmarks/iv-perfect-park.jpg"
+  },
+  {
+    "id": "iv-super-cucas",
+    "name": "Super Cuca's",
+    "lat": 34.4123137,
+    "lon": -119.8550141,
+    "kind": "restaurant",
+    "blurb": "6527 Madrid Road — local Mexican burritos and tacos, a few steps off Embarcadero del Norte.",
+    "imageUrl": "/landmarks/iv-super-cucas.jpg"
+  }
+]

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#38BDF8"/>
+  <rect y="180" width="400" height="120" fill="#FDE68A"/>
+  <path stroke="#64748B" stroke-width="6" fill="none" d="M40 220 H360 M80 180 V260 M200 160 V280 M320 190 V250"/>
+  <text x="200" y="40" text-anchor="middle" fill="#fff" font-family="system-ui" font-size="22" font-weight="700">Downtown SB</text>
+</svg>

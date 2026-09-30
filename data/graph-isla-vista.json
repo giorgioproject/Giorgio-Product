@@ -1,0 +1,2809 @@
+{
+  "bbox": {
+    "south": 34.403,
+    "west": -119.872,
+    "north": 34.418,
+    "east": -119.848
+  },
+  "nodes": [
+    {
+      "id": "5327181123",
+      "lat": 34.4171713,
+      "lon": -119.8535357
+    },
+    {
+      "id": "165555991",
+      "lat": 34.412404,
+      "lon": -119.8669062
+    },
+    {
+      "id": "165412452",
+      "lat": 34.4164282,
+      "lon": -119.8570339
+    },
+    {
+      "id": "165573649",
+      "lat": 34.4104862,
+      "lon": -119.8679959
+    },
+    {
+      "id": "5431668645",
+      "lat": 34.417348,
+      "lon": -119.869817
+    },
+    {
+      "id": "165470209",
+      "lat": 34.4097728,
+      "lon": -119.8562394
+    },
+    {
+      "id": "165321279",
+      "lat": 34.4164316,
+      "lon": -119.8587009
+    },
+    {
+      "id": "165506784",
+      "lat": 34.4094089,
+      "lon": -119.8562632
+    },
+    {
+      "id": "566109419",
+      "lat": 34.413774,
+      "lon": -119.8538166
+    },
+    {
+      "id": "649741070",
+      "lat": 34.4135188,
+      "lon": -119.8668965
+    },
+    {
+      "id": "165412340",
+      "lat": 34.4104672,
+      "lon": -119.8625918
+    },
+    {
+      "id": "165379211",
+      "lat": 34.4157536,
+      "lon": -119.8537992
+    },
+    {
+      "id": "165491680",
+      "lat": 34.4150939,
+      "lon": -119.8537841
+    },
+    {
+      "id": "5431668646",
+      "lat": 34.4174208,
+      "lon": -119.8697108
+    },
+    {
+      "id": "7972882007",
+      "lat": 34.4172629,
+      "lon": -119.853421
+    },
+    {
+      "id": "5744979785",
+      "lat": 34.411147,
+      "lon": -119.8608047
+    },
+    {
+      "id": "165317598",
+      "lat": 34.4174554,
+      "lon": -119.8665643
+    },
+    {
+      "id": "13077446119",
+      "lat": 34.4111543,
+      "lon": -119.8626808
+    },
+    {
+      "id": "7756088362",
+      "lat": 34.418032,
+      "lon": -119.8665478
+    },
+    {
+      "id": "5437952284",
+      "lat": 34.4104398,
+      "lon": -119.8574817
+    },
+    {
+      "id": "5437952454",
+      "lat": 34.4097686,
+      "lon": -119.8597643
+    },
+    {
+      "id": "4578473319",
+      "lat": 34.4174441,
+      "lon": -119.8625481
+    },
+    {
+      "id": "7644289046",
+      "lat": 34.4098829,
+      "lon": -119.8695402
+    },
+    {
+      "id": "165526016",
+      "lat": 34.4104408,
+      "lon": -119.856239
+    },
+    {
+      "id": "165412468",
+      "lat": 34.4111798,
+      "lon": -119.8569182
+    },
+    {
+      "id": "165321294",
+      "lat": 34.4141643,
+      "lon": -119.8587003
+    },
+    {
+      "id": "165445703",
+      "lat": 34.4118626,
+      "lon": -119.8695234
+    },
+    {
+      "id": "165317622",
+      "lat": 34.4126802,
+      "lon": -119.8664235
+    },
+    {
+      "id": "11525154662",
+      "lat": 34.4136066,
+      "lon": -119.8664163
+    },
+    {
+      "id": "14124001723",
+      "lat": 34.4144597,
+      "lon": -119.8665474
+    },
+    {
+      "id": "566109424",
+      "lat": 34.417437,
+      "lon": -119.8606675
+    },
+    {
+      "id": "170347293",
+      "lat": 34.416869,
+      "lon": -119.871318
+    },
+    {
+      "id": "165412461",
+      "lat": 34.4118127,
+      "lon": -119.8570503
+    },
+    {
+      "id": "165321282",
+      "lat": 34.4157659,
+      "lon": -119.8587043
+    },
+    {
+      "id": "165412450",
+      "lat": 34.4174206,
+      "lon": -119.857028
+    },
+    {
+      "id": "5537337702",
+      "lat": 34.4174623,
+      "lon": -119.8689149
+    },
+    {
+      "id": "566109483",
+      "lat": 34.4158016,
+      "lon": -119.8518159
+    },
+    {
+      "id": "165321306",
+      "lat": 34.4118105,
+      "lon": -119.858709
+    },
+    {
+      "id": "5680657149",
+      "lat": 34.4164309,
+      "lon": -119.8586156
+    },
+    {
+      "id": "165321276",
+      "lat": 34.4174291,
+      "lon": -119.8587005
+    },
+    {
+      "id": "448041199",
+      "lat": 34.409458,
+      "lon": -119.8534011
+    },
+    {
+      "id": "451490258",
+      "lat": 34.4195106,
+      "lon": -119.8535411
+    },
+    {
+      "id": "6106068052",
+      "lat": 34.4131742,
+      "lon": -119.8718696
+    },
+    {
+      "id": "165412458",
+      "lat": 34.4144434,
+      "lon": -119.8570409
+    },
+    {
+      "id": "860193365",
+      "lat": 34.4173161,
+      "lon": -119.8606696
+    },
+    {
+      "id": "165321312",
+      "lat": 34.4104457,
+      "lon": -119.8587176
+    },
+    {
+      "id": "164969756",
+      "lat": 34.4142297,
+      "lon": -119.8735556
+    },
+    {
+      "id": "165568874",
+      "lat": 34.4112044,
+      "lon": -119.8555311
+    },
+    {
+      "id": "165317633",
+      "lat": 34.4104871,
+      "lon": -119.8664458
+    },
+    {
+      "id": "860193307",
+      "lat": 34.4154308,
+      "lon": -119.85141
+    },
+    {
+      "id": "7756088406",
+      "lat": 34.4183477,
+      "lon": -119.8696836
+    },
+    {
+      "id": "7734796776",
+      "lat": 34.4131106,
+      "lon": -119.855395
+    },
+    {
+      "id": "7738481849",
+      "lat": 34.4141955,
+      "lon": -119.8500717
+    },
+    {
+      "id": "165317625",
+      "lat": 34.4124027,
+      "lon": -119.8664275
+    },
+    {
+      "id": "165597162",
+      "lat": 34.4113792,
+      "lon": -119.8698811
+    },
+    {
+      "id": "649754584",
+      "lat": 34.4169196,
+      "lon": -119.8702188
+    },
+    {
+      "id": "5431668642",
+      "lat": 34.417066,
+      "lon": -119.8699604
+    },
+    {
+      "id": "7125246475",
+      "lat": 34.4125452,
+      "lon": -119.869461
+    },
+    {
+      "id": "7599125226",
+      "lat": 34.4181257,
+      "lon": -119.8698116
+    },
+    {
+      "id": "6482324235",
+      "lat": 34.4141646,
+      "lon": -119.8587988
+    },
+    {
+      "id": "2910152085",
+      "lat": 34.4141747,
+      "lon": -119.8625672
+    },
+    {
+      "id": "165412337",
+      "lat": 34.4126679,
+      "lon": -119.8625734
+    },
+    {
+      "id": "165321309",
+      "lat": 34.4111409,
+      "lon": -119.8587084
+    },
+    {
+      "id": "7599125174",
+      "lat": 34.4173369,
+      "lon": -119.8665477
+    },
+    {
+      "id": "6482677796",
+      "lat": 34.4104325,
+      "lon": -119.8540002
+    },
+    {
+      "id": "7668180735",
+      "lat": 34.4098263,
+      "lon": -119.8587193
+    },
+    {
+      "id": "7697613298",
+      "lat": 34.4098183,
+      "lon": -119.8587185
+    },
+    {
+      "id": "165528252",
+      "lat": 34.4117933,
+      "lon": -119.8554019
+    },
+    {
+      "id": "5431668641",
+      "lat": 34.4173478,
+      "lon": -119.8697111
+    },
+    {
+      "id": "165564102",
+      "lat": 34.4115493,
+      "lon": -119.8721577
+    },
+    {
+      "id": "7668180761",
+      "lat": 34.4116885,
+      "lon": -119.8588008
+    },
+    {
+      "id": "165506792",
+      "lat": 34.409807,
+      "lon": -119.8679986
+    },
+    {
+      "id": "5338691704",
+      "lat": 34.4097686,
+      "lon": -119.8597737
+    },
+    {
+      "id": "860193358",
+      "lat": 34.4173226,
+      "lon": -119.8625488
+    },
+    {
+      "id": "649754604",
+      "lat": 34.4167549,
+      "lon": -119.8696644
+    },
+    {
+      "id": "165491681",
+      "lat": 34.415097,
+      "lon": -119.8553853
+    },
+    {
+      "id": "165321303",
+      "lat": 34.4126484,
+      "lon": -119.8587054
+    },
+    {
+      "id": "165412339",
+      "lat": 34.4111522,
+      "lon": -119.8625884
+    },
+    {
+      "id": "165412338",
+      "lat": 34.4117035,
+      "lon": -119.8625841
+    },
+    {
+      "id": "5324918313",
+      "lat": 34.4164243,
+      "lon": -119.8560835
+    },
+    {
+      "id": "165314582",
+      "lat": 34.4171599,
+      "lon": -119.8697599
+    },
+    {
+      "id": "165597190",
+      "lat": 34.4133128,
+      "lon": -119.8717566
+    },
+    {
+      "id": "165321285",
+      "lat": 34.4152002,
+      "lon": -119.8587052
+    },
+    {
+      "id": "165379215",
+      "lat": 34.4157607,
+      "lon": -119.8570363
+    },
+    {
+      "id": "12888245312",
+      "lat": 34.4141645,
+      "lon": -119.858788
+    },
+    {
+      "id": "165579952",
+      "lat": 34.4111581,
+      "lon": -119.8679909
+    },
+    {
+      "id": "12888245305",
+      "lat": 34.4116885,
+      "lon": -119.8587926
+    },
+    {
+      "id": "165317630",
+      "lat": 34.4111599,
+      "lon": -119.8664407
+    },
+    {
+      "id": "966704765",
+      "lat": 34.4177123,
+      "lon": -119.8625447
+    },
+    {
+      "id": "7683759773",
+      "lat": 34.4164309,
+      "lon": -119.8586248
+    },
+    {
+      "id": "5329504705",
+      "lat": 34.4161596,
+      "lon": -119.8613204
+    },
+    {
+      "id": "860193371",
+      "lat": 34.4172894,
+      "lon": -119.8553664
+    },
+    {
+      "id": "164969749",
+      "lat": 34.4141879,
+      "lon": -119.8719042
+    },
+    {
+      "id": "860193350",
+      "lat": 34.4173083,
+      "lon": -119.858701
+    },
+    {
+      "id": "164969757",
+      "lat": 34.4134726,
+      "lon": -119.8718904
+    },
+    {
+      "id": "165530456",
+      "lat": 34.415354,
+      "lon": -119.8513233
+    },
+    {
+      "id": "165602757",
+      "lat": 34.411737,
+      "lon": -119.8679856
+    },
+    {
+      "id": "649998469",
+      "lat": 34.413124,
+      "lon": -119.8579084
+    },
+    {
+      "id": "165445705",
+      "lat": 34.4112922,
+      "lon": -119.8695386
+    },
+    {
+      "id": "7668223215",
+      "lat": 34.4104677,
+      "lon": -119.8625147
+    },
+    {
+      "id": "14124001726",
+      "lat": 34.4097983,
+      "lon": -119.8664528
+    },
+    {
+      "id": "12880549303",
+      "lat": 34.4136071,
+      "lon": -119.8663311
+    },
+    {
+      "id": "165476543",
+      "lat": 34.4164235,
+      "lon": -119.855366
+    },
+    {
+      "id": "5695821539",
+      "lat": 34.4104325,
+      "lon": -119.8539928
+    },
+    {
+      "id": "13384422276",
+      "lat": 34.4152484,
+      "lon": -119.8625049
+    },
+    {
+      "id": "5417172342",
+      "lat": 34.4177187,
+      "lon": -119.8696902
+    },
+    {
+      "id": "5744979692",
+      "lat": 34.4104513,
+      "lon": -119.8601661
+    },
+    {
+      "id": "165337730",
+      "lat": 34.4180649,
+      "lon": -119.848163
+    },
+    {
+      "id": "650001479",
+      "lat": 34.4097635,
+      "lon": -119.8587201
+    },
+    {
+      "id": "165379213",
+      "lat": 34.4157547,
+      "lon": -119.8553741
+    },
+    {
+      "id": "164710567",
+      "lat": 34.4124498,
+      "lon": -119.8537417
+    },
+    {
+      "id": "165506782",
+      "lat": 34.4090528,
+      "lon": -119.8538055
+    },
+    {
+      "id": "7848568311",
+      "lat": 34.4109569,
+      "lon": -119.8773985
+    },
+    {
+      "id": "5329504703",
+      "lat": 34.4162219,
+      "lon": -119.862554
+    },
+    {
+      "id": "165528248",
+      "lat": 34.4118008,
+      "lon": -119.8537542
+    },
+    {
+      "id": "165317627",
+      "lat": 34.4117241,
+      "lon": -119.8664382
+    },
+    {
+      "id": "165321300",
+      "lat": 34.4131299,
+      "lon": -119.8587028
+    },
+    {
+      "id": "165563315",
+      "lat": 34.4144353,
+      "lon": -119.8553797
+    },
+    {
+      "id": "6482400732",
+      "lat": 34.4097799,
+      "lon": -119.8627126
+    },
+    {
+      "id": "860193294",
+      "lat": 34.4153448,
+      "lon": -119.851539
+    },
+    {
+      "id": "164710572",
+      "lat": 34.412459,
+      "lon": -119.855394
+    },
+    {
+      "id": "5324758285",
+      "lat": 34.4151815,
+      "lon": -119.8614398
+    },
+    {
+      "id": "164710553",
+      "lat": 34.4124664,
+      "lon": -119.8570485
+    },
+    {
+      "id": "7599618883",
+      "lat": 34.4148019,
+      "lon": -119.8713318
+    },
+    {
+      "id": "860193282",
+      "lat": 34.415268,
+      "lon": -119.8514573
+    },
+    {
+      "id": "164710558",
+      "lat": 34.4124739,
+      "lon": -119.8587058
+    },
+    {
+      "id": "165412341",
+      "lat": 34.4097793,
+      "lon": -119.862595
+    },
+    {
+      "id": "860193317",
+      "lat": 34.4148636,
+      "lon": -119.8507876
+    },
+    {
+      "id": "165321297",
+      "lat": 34.4137867,
+      "lon": -119.8587012
+    },
+    {
+      "id": "5330452074",
+      "lat": 34.413107,
+      "lon": -119.8539122
+    },
+    {
+      "id": "165555993",
+      "lat": 34.4124063,
+      "lon": -119.8679649
+    },
+    {
+      "id": "537522714",
+      "lat": 34.4151043,
+      "lon": -119.8584139
+    },
+    {
+      "id": "5955757007",
+      "lat": 34.4185478,
+      "lon": -119.8605627
+    },
+    {
+      "id": "165563313",
+      "lat": 34.4144307,
+      "lon": -119.8537393
+    },
+    {
+      "id": "860193315",
+      "lat": 34.4172949,
+      "lon": -119.8570309
+    },
+    {
+      "id": "165412460",
+      "lat": 34.4131135,
+      "lon": -119.8570484
+    },
+    {
+      "id": "5407882163",
+      "lat": 34.411159,
+      "lon": -119.8639999
+    },
+    {
+      "id": "165445709",
+      "lat": 34.4106209,
+      "lon": -119.8695409
+    },
+    {
+      "id": "165526014",
+      "lat": 34.4108862,
+      "lon": -119.8562349
+    },
+    {
+      "id": "5319326134",
+      "lat": 34.4099357,
+      "lon": -119.8695402
+    },
+    {
+      "id": "566109425",
+      "lat": 34.4174135,
+      "lon": -119.8553707
+    },
+    {
+      "id": "165579931",
+      "lat": 34.411138,
+      "lon": -119.8537391
+    },
+    {
+      "id": "165602753",
+      "lat": 34.4116882,
+      "lon": -119.8587096
+    },
+    {
+      "id": "165321291",
+      "lat": 34.4144479,
+      "lon": -119.8586995
+    },
+    {
+      "id": "165476541",
+      "lat": 34.4164088,
+      "lon": -119.8537793
+    },
+    {
+      "id": "8253592464",
+      "lat": 34.4114527,
+      "lon": -119.8533409
+    },
+    {
+      "id": "5431668647",
+      "lat": 34.4174206,
+      "lon": -119.8698152
+    },
+    {
+      "id": "5324918310",
+      "lat": 34.4164251,
+      "lon": -119.8563206
+    },
+    {
+      "id": "165573647",
+      "lat": 34.4104316,
+      "lon": -119.8537516
+    },
+    {
+      "id": "7668180739",
+      "lat": 34.4097798,
+      "lon": -119.8627031
+    },
+    {
+      "id": "860161075",
+      "lat": 34.418067,
+      "lon": -119.8482864
+    },
+    {
+      "id": "165542250",
+      "lat": 34.413778,
+      "lon": -119.855389
+    },
+    {
+      "id": "649998464",
+      "lat": 34.4131183,
+      "lon": -119.8576002
+    },
+    {
+      "id": "165412459",
+      "lat": 34.4137795,
+      "lon": -119.8570433
+    },
+    {
+      "id": "860193348",
+      "lat": 34.4156123,
+      "lon": -119.8508299
+    },
+    {
+      "id": "165412456",
+      "lat": 34.4150961,
+      "lon": -119.8570387
+    },
+    {
+      "id": "761340247",
+      "lat": 34.4104398,
+      "lon": -119.8574758
+    },
+    {
+      "id": "5658300167",
+      "lat": 34.4111466,
+      "lon": -119.8607938
+    }
+  ],
+  "edges": [
+    {
+      "id": "e39",
+      "from": "11506718614",
+      "to": "11506718615",
+      "streetName": "",
+      "highway": "service",
+      "playable": false,
+      "lengthM": 12.38
+    },
+    {
+      "id": "e49",
+      "from": "165321276",
+      "to": "860193350",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 13.43
+    },
+    {
+      "id": "e53",
+      "from": "12880549303",
+      "to": "11525154662",
+      "streetName": "Estero Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 7.82
+    },
+    {
+      "id": "e199",
+      "from": "7683759773",
+      "to": "165321279",
+      "streetName": "Cervantes Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 6.98
+    },
+    {
+      "id": "e331",
+      "from": "566109425",
+      "to": "860193371",
+      "streetName": "Embarcadero del Norte",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 13.8
+    },
+    {
+      "id": "e343",
+      "from": "165573647",
+      "to": "5695821539",
+      "streetName": "Sabado Tarde Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 22.13
+    },
+    {
+      "id": "e388",
+      "from": "165321294",
+      "to": "12888245312",
+      "streetName": "Abrego Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 8.05
+    },
+    {
+      "id": "e1177",
+      "from": "860193365",
+      "to": "566109424",
+      "streetName": "South Los Carneros Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 13.44
+    },
+    {
+      "id": "e1736",
+      "from": "164969757",
+      "to": "164969749",
+      "streetName": "West Campus Point Lane",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 79.55
+    },
+    {
+      "id": "e2222",
+      "from": "761313571",
+      "to": "6482677227",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 60.8
+    },
+    {
+      "id": "e2259",
+      "from": "165321294",
+      "to": "165321297",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 41.99
+    },
+    {
+      "id": "e2270",
+      "from": "165321303",
+      "to": "164710558",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 19.4
+    },
+    {
+      "id": "e2298",
+      "from": "860193307",
+      "to": "566109483",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 55.55
+    },
+    {
+      "id": "e2380",
+      "from": "7668223215",
+      "to": "165412340",
+      "streetName": "Sabado Tarde Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 7.07
+    },
+    {
+      "id": "e2466",
+      "from": "165412339",
+      "to": "13077446119",
+      "streetName": "Trigo Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 8.48
+    },
+    {
+      "id": "e2507",
+      "from": "165321306",
+      "to": "165602753",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 13.6
+    },
+    {
+      "id": "e2523",
+      "from": "7697613298",
+      "to": "650001479",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 6.1
+    },
+    {
+      "id": "e2631",
+      "from": "165321291",
+      "to": "165321294",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 31.53
+    },
+    {
+      "id": "e3905",
+      "from": "2315288240",
+      "to": "2315288238",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 11.3
+    },
+    {
+      "id": "e3908",
+      "from": "5327327476",
+      "to": "5327181123",
+      "streetName": "",
+      "highway": "cycleway",
+      "playable": false,
+      "lengthM": 16.64
+    },
+    {
+      "id": "e3943",
+      "from": "7599125170",
+      "to": "7599125169",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 13.28
+    },
+    {
+      "id": "e4119",
+      "from": "5733755432",
+      "to": "7742235051",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 13.51
+    },
+    {
+      "id": "e4159",
+      "from": "5330822534",
+      "to": "5330822535",
+      "streetName": "",
+      "highway": "service",
+      "playable": false,
+      "lengthM": 15.85
+    },
+    {
+      "id": "e4177",
+      "from": "5449476623",
+      "to": "7742235053",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 13.39
+    },
+    {
+      "id": "e4197",
+      "from": "8253592454",
+      "to": "5733744992",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 16.69
+    },
+    {
+      "id": "e4229",
+      "from": "5733757577",
+      "to": "7721770361",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 13.89
+    },
+    {
+      "id": "e4237",
+      "from": "5449476621",
+      "to": "7742235055",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 13.64
+    },
+    {
+      "id": "e4326",
+      "from": "7721770343",
+      "to": "7721770344",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 13.99
+    },
+    {
+      "id": "e4338",
+      "from": "7641427746",
+      "to": "7641427745",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 13.51
+    },
+    {
+      "id": "e5185",
+      "from": "5431668641",
+      "to": "5431668646",
+      "streetName": "Storke Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 8.12
+    },
+    {
+      "id": "e5236",
+      "from": "5431668645",
+      "to": "5431668641",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 9.71
+    },
+    {
+      "id": "e5242",
+      "from": "5431668646",
+      "to": "5431668647",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 9.58
+    },
+    {
+      "id": "e5765",
+      "from": "7972882007",
+      "to": "5327181123",
+      "streetName": "Stadium Road",
+      "highway": "tertiary",
+      "playable": true,
+      "lengthM": 14.64
+    },
+    {
+      "id": "e7478",
+      "from": "5794643231",
+      "to": "4578930840",
+      "streetName": "El Colegio Road",
+      "highway": "service",
+      "playable": false,
+      "lengthM": 13.01
+    },
+    {
+      "id": "e7495",
+      "from": "5794651951",
+      "to": "5794651952",
+      "streetName": "El Colegio Road",
+      "highway": "service",
+      "playable": false,
+      "lengthM": 13.11
+    },
+    {
+      "id": "e7517",
+      "from": "5327327475",
+      "to": "7972870203",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 15.89
+    },
+    {
+      "id": "e8247",
+      "from": "165445705",
+      "to": "165445709",
+      "streetName": "Camino Majorca",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 74.65
+    },
+    {
+      "id": "e8680",
+      "from": "5417172342",
+      "to": "7756088406",
+      "streetName": "Storke Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 69.94
+    },
+    {
+      "id": "e8689",
+      "from": "7599125231",
+      "to": "7599125232",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 8.08
+    },
+    {
+      "id": "e9296",
+      "from": "7599125236",
+      "to": "7599125230",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 9.67
+    },
+    {
+      "id": "e9569",
+      "from": "13384422276",
+      "to": "650084083",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 5.44
+    },
+    {
+      "id": "e10039",
+      "from": "4578473319",
+      "to": "860193358",
+      "streetName": "Camino del Sur",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 13.51
+    },
+    {
+      "id": "e10040",
+      "from": "165317598",
+      "to": "7599125174",
+      "streetName": "Camino Corto",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 13.26
+    },
+    {
+      "id": "e10393",
+      "from": "5733757576",
+      "to": "7721770352",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 13.82
+    },
+    {
+      "id": "e10406",
+      "from": "5733742490",
+      "to": "7721770345",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 13.95
+    },
+    {
+      "id": "e10427",
+      "from": "7641427750",
+      "to": "7641427749",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 13.45
+    },
+    {
+      "id": "e10445",
+      "from": "7599125172",
+      "to": "7599125171",
+      "streetName": "",
+      "highway": "footway",
+      "playable": false,
+      "lengthM": 13.14
+    },
+    {
+      "id": "e10584",
+      "from": "5431668647",
+      "to": "5431668645",
+      "streetName": "Storke Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 8.07
+    },
+    {
+      "id": "e10716",
+      "from": "165412450",
+      "to": "860193315",
+      "streetName": "Embarcadero del Mar",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 13.98
+    },
+    {
+      "id": "e11253",
+      "from": "165602753",
+      "to": "12888245305",
+      "streetName": "Pasado Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 7.61
+    },
+    {
+      "id": "e11651",
+      "from": "860193282",
+      "to": "165530456",
+      "streetName": "Ocean Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 15.57
+    },
+    {
+      "id": "e11652",
+      "from": "860193294",
+      "to": "860193282",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 11.36
+    },
+    {
+      "id": "e11653",
+      "from": "165530456",
+      "to": "860193307",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 11.67
+    },
+    {
+      "id": "e11654",
+      "from": "860193307",
+      "to": "860193294",
+      "streetName": "Ocean Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 15.21
+    },
+    {
+      "id": "e11710",
+      "from": "5319326134",
+      "to": "7644289046",
+      "streetName": "Camino Majorca",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 5.87
+    },
+    {
+      "id": "e11778",
+      "from": "164710558",
+      "to": "164710553",
+      "streetName": "Madrid Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 152.06
+    },
+    {
+      "id": "e11786",
+      "from": "164710572",
+      "to": "164710567",
+      "streetName": "Madrid Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 151.57
+    },
+    {
+      "id": "e11795",
+      "from": "164969756",
+      "to": "164969749",
+      "streetName": "",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 157.54
+    },
+    {
+      "id": "e11808",
+      "from": "165379213",
+      "to": "165379211",
+      "streetName": "El Greco Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 144.47
+    },
+    {
+      "id": "e11817",
+      "from": "165379215",
+      "to": "165379213",
+      "streetName": "El Greco Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 152.48
+    },
+    {
+      "id": "e11821",
+      "from": "4578473319",
+      "to": "966704765",
+      "streetName": "Camino del Sur",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 29.81
+    },
+    {
+      "id": "e11828",
+      "from": "165412452",
+      "to": "860193315",
+      "streetName": "Embarcadero del Mar",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 96.36
+    },
+    {
+      "id": "e11834",
+      "from": "7734796776",
+      "to": "5330452074",
+      "streetName": "Pardall Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 136.02
+    },
+    {
+      "id": "e11859",
+      "from": "165412337",
+      "to": "165321303",
+      "streetName": "Sueno Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 354.84
+    },
+    {
+      "id": "e11879",
+      "from": "165317622",
+      "to": "165412337",
+      "streetName": "Sueno Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 353.21
+    },
+    {
+      "id": "e11907",
+      "from": "165573647",
+      "to": "165470209",
+      "streetName": "El Nido Lane",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 299.75
+    },
+    {
+      "id": "e11916",
+      "from": "165476543",
+      "to": "165476541",
+      "streetName": "Cervantes Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 145.56
+    },
+    {
+      "id": "e11921",
+      "from": "5324918313",
+      "to": "165476543",
+      "streetName": "Cervantes Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 65.81
+    },
+    {
+      "id": "e11925",
+      "from": "165412452",
+      "to": "5324918310",
+      "streetName": "Cervantes Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 65.44
+    },
+    {
+      "id": "e11929",
+      "from": "5680657149",
+      "to": "165412452",
+      "streetName": "Cervantes Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 145.09
+    },
+    {
+      "id": "e11938",
+      "from": "165412456",
+      "to": "165491681",
+      "streetName": "Picasso Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 151.67
+    },
+    {
+      "id": "e11944",
+      "from": "537522714",
+      "to": "165412456",
+      "streetName": "Picasso Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 126.15
+    },
+    {
+      "id": "e11953",
+      "from": "5324758285",
+      "to": "165321285",
+      "streetName": "Picasso Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 251.43
+    },
+    {
+      "id": "e11956",
+      "from": "165526016",
+      "to": "165526014",
+      "streetName": "El Embarcadero Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 49.53
+    },
+    {
+      "id": "e11961",
+      "from": "165528252",
+      "to": "165528248",
+      "streetName": "Seville Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 151.17
+    },
+    {
+      "id": "e11972",
+      "from": "165321306",
+      "to": "165412461",
+      "streetName": "Seville Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 152.18
+    },
+    {
+      "id": "e11978",
+      "from": "165542250",
+      "to": "566109419",
+      "streetName": "Cordoba Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 144.24
+    },
+    {
+      "id": "e11987",
+      "from": "165412459",
+      "to": "165542250",
+      "streetName": "Cordoba Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 151.75
+    },
+    {
+      "id": "e11996",
+      "from": "165321297",
+      "to": "165412459",
+      "streetName": "Cordoba Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 152.09
+    },
+    {
+      "id": "e11998",
+      "from": "165555991",
+      "to": "165317625",
+      "streetName": "Fortuna Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 43.91
+    },
+    {
+      "id": "e12006",
+      "from": "165555993",
+      "to": "165555991",
+      "streetName": "Fortuna Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 97.13
+    },
+    {
+      "id": "e12012",
+      "from": "7125246475",
+      "to": "165555993",
+      "streetName": "Fortuna Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 138.11
+    },
+    {
+      "id": "e12017",
+      "from": "165563315",
+      "to": "165563313",
+      "streetName": "Segovia Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 150.49
+    },
+    {
+      "id": "e12027",
+      "from": "165412458",
+      "to": "165563315",
+      "streetName": "Segovia Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 152.39
+    },
+    {
+      "id": "e12035",
+      "from": "165321291",
+      "to": "165412458",
+      "streetName": "Segovia Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 152.15
+    },
+    {
+      "id": "e12045",
+      "from": "165555991",
+      "to": "649741070",
+      "streetName": "Fortuna Lane",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 123.97
+    },
+    {
+      "id": "e12059",
+      "from": "165526016",
+      "to": "6482677796",
+      "streetName": "Sabado Tarde Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 205.38
+    },
+    {
+      "id": "e12070",
+      "from": "6106068052",
+      "to": "164969757",
+      "streetName": "West Campus Point Lane",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 33.43
+    },
+    {
+      "id": "e12075",
+      "from": "165602757",
+      "to": "165555993",
+      "streetName": "Camino Lindo",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 74.54
+    },
+    {
+      "id": "e12078",
+      "from": "165579952",
+      "to": "165602757",
+      "streetName": "Camino Lindo",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 64.37
+    },
+    {
+      "id": "e12093",
+      "from": "2910152085",
+      "to": "6482324235",
+      "streetName": "Abrego Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 345.7
+    },
+    {
+      "id": "e12098",
+      "from": "7599618883",
+      "to": "170347293",
+      "streetName": "West Campus Point Drive",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 230.18
+    },
+    {
+      "id": "e12119",
+      "from": "860193317",
+      "to": "7738481849",
+      "streetName": "El Colegio Road",
+      "highway": "tertiary",
+      "playable": true,
+      "lengthM": 99.22
+    },
+    {
+      "id": "e12188",
+      "from": "165317627",
+      "to": "165412338",
+      "streetName": "Pasado Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 353.6
+    },
+    {
+      "id": "e12195",
+      "from": "7599618883",
+      "to": "164969749",
+      "streetName": "West Campus Point Lane",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 95.05
+    },
+    {
+      "id": "e12238",
+      "from": "164969756",
+      "to": "7848568311",
+      "streetName": "Slough Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 536.66
+    },
+    {
+      "id": "e12270",
+      "from": "170347293",
+      "to": "164969756",
+      "streetName": "Slough Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 463.29
+    },
+    {
+      "id": "e12274",
+      "from": "649754584",
+      "to": "170347293",
+      "streetName": "Slough Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 101.37
+    },
+    {
+      "id": "e12280",
+      "from": "649754604",
+      "to": "649754584",
+      "streetName": "West Campus Point Lane",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 59.66
+    },
+    {
+      "id": "e12283",
+      "from": "165314582",
+      "to": "649754604",
+      "streetName": "West Campus Point Lane",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 47.46
+    },
+    {
+      "id": "e12286",
+      "from": "165321300",
+      "to": "649998469",
+      "streetName": "Pardall Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 72.88
+    },
+    {
+      "id": "e12311",
+      "from": "165506784",
+      "to": "165506782",
+      "streetName": "Del Playa Drive",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 228.93
+    },
+    {
+      "id": "e12336",
+      "from": "650001479",
+      "to": "165506784",
+      "streetName": "Del Playa Drive",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 228.84
+    },
+    {
+      "id": "e12343",
+      "from": "5437952454",
+      "to": "650001479",
+      "streetName": "Del Playa Drive",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 95.8
+    },
+    {
+      "id": "e12373",
+      "from": "165412341",
+      "to": "5338691704",
+      "streetName": "Del Playa Drive",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 258.84
+    },
+    {
+      "id": "e12374",
+      "from": "165412341",
+      "to": "7668180739",
+      "streetName": "Del Playa Drive",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 9.92
+    },
+    {
+      "id": "e12399",
+      "from": "14124001726",
+      "to": "6482400732",
+      "streetName": "Del Playa Drive",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 343.12
+    },
+    {
+      "id": "e12403",
+      "from": "165321300",
+      "to": "165321297",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 73.05
+    },
+    {
+      "id": "e12407",
+      "from": "165321303",
+      "to": "165321300",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 53.55
+    },
+    {
+      "id": "e12411",
+      "from": "165321306",
+      "to": "164710558",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 73.77
+    },
+    {
+      "id": "e12419",
+      "from": "165412337",
+      "to": "2910152085",
+      "streetName": "Camino del Sur",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 167.55
+    },
+    {
+      "id": "e12424",
+      "from": "165317622",
+      "to": "11525154662",
+      "streetName": "Camino Corto",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 103.01
+    },
+    {
+      "id": "e12425",
+      "from": "165317622",
+      "to": "165317625",
+      "streetName": "Camino Corto",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 30.86
+    },
+    {
+      "id": "e12429",
+      "from": "165317627",
+      "to": "165317625",
+      "streetName": "Camino Corto",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 75.46
+    },
+    {
+      "id": "e12453",
+      "from": "2910152085",
+      "to": "14124001723",
+      "streetName": "Abrego Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 371.95
+    },
+    {
+      "id": "e12459",
+      "from": "448041199",
+      "to": "8253592464",
+      "streetName": "Ocean Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 223.22
+    },
+    {
+      "id": "e12468",
+      "from": "761340247",
+      "to": "165526016",
+      "streetName": "Sabado Tarde Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 113.47
+    },
+    {
+      "id": "e12477",
+      "from": "165321312",
+      "to": "5437952284",
+      "streetName": "Sabado Tarde Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 113.38
+    },
+    {
+      "id": "e12488",
+      "from": "5744979692",
+      "to": "165321312",
+      "streetName": "Sabado Tarde Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 132.87
+    },
+    {
+      "id": "e12521",
+      "from": "165317633",
+      "to": "165412340",
+      "streetName": "Sabado Tarde Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 353.58
+    },
+    {
+      "id": "e12531",
+      "from": "165321309",
+      "to": "165412468",
+      "streetName": "Trigo Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 165.53
+    },
+    {
+      "id": "e12555",
+      "from": "5658300167",
+      "to": "165321309",
+      "streetName": "Trigo Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 191.3
+    },
+    {
+      "id": "e12569",
+      "from": "165412339",
+      "to": "5744979785",
+      "streetName": "Trigo Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 163.66
+    },
+    {
+      "id": "e12589",
+      "from": "165317630",
+      "to": "5407882163",
+      "streetName": "Trigo Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 223.96
+    },
+    {
+      "id": "e12596",
+      "from": "165412468",
+      "to": "165526014",
+      "streetName": "Trigo Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 72.78
+    },
+    {
+      "id": "e12599",
+      "from": "165321309",
+      "to": "165602753",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 60.86
+    },
+    {
+      "id": "e12606",
+      "from": "165321312",
+      "to": "165321309",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 77.3
+    },
+    {
+      "id": "e12608",
+      "from": "7668180735",
+      "to": "165321312",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 68.87
+    },
+    {
+      "id": "e12611",
+      "from": "165470209",
+      "to": "165526016",
+      "streetName": "El Embarcadero Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 74.28
+    },
+    {
+      "id": "e12614",
+      "from": "165506784",
+      "to": "165470209",
+      "streetName": "El Embarcadero Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 40.62
+    },
+    {
+      "id": "e12621",
+      "from": "165412468",
+      "to": "165412461",
+      "streetName": "Embarcadero del Mar",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 72.55
+    },
+    {
+      "id": "e12627",
+      "from": "566109483",
+      "to": "860193348",
+      "streetName": "",
+      "highway": "secondary_link",
+      "playable": true,
+      "lengthM": 96.16
+    },
+    {
+      "id": "e12657",
+      "from": "7972882007",
+      "to": "566109483",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 219.34
+    },
+    {
+      "id": "e12668",
+      "from": "860193317",
+      "to": "860193282",
+      "streetName": "El Colegio Road",
+      "highway": "tertiary",
+      "playable": true,
+      "lengthM": 77.47
+    },
+    {
+      "id": "e12674",
+      "from": "165321285",
+      "to": "165321282",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 62.9
+    },
+    {
+      "id": "e12680",
+      "from": "165321291",
+      "to": "165321285",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 83.66
+    },
+    {
+      "id": "e12684",
+      "from": "5329504703",
+      "to": "860193358",
+      "streetName": "Camino del Sur",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 122.4
+    },
+    {
+      "id": "e12689",
+      "from": "860193365",
+      "to": "860193358",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 172.38
+    },
+    {
+      "id": "e12700",
+      "from": "165526014",
+      "to": "165568874",
+      "streetName": "Trigo Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 76.41
+    },
+    {
+      "id": "e12705",
+      "from": "165568874",
+      "to": "165579931",
+      "streetName": "Trigo Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 166.52
+    },
+    {
+      "id": "e12719",
+      "from": "165445709",
+      "to": "165573649",
+      "streetName": "Sabado Tarde Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 142.55
+    },
+    {
+      "id": "e12720",
+      "from": "165573649",
+      "to": "165506792",
+      "streetName": "Camino Lindo",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 75.53
+    },
+    {
+      "id": "e12731",
+      "from": "165412456",
+      "to": "165379215",
+      "streetName": "Embarcadero del Mar",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 73.9
+    },
+    {
+      "id": "e12735",
+      "from": "165412458",
+      "to": "165412456",
+      "streetName": "Embarcadero del Mar",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 72.57
+    },
+    {
+      "id": "e12740",
+      "from": "165412459",
+      "to": "165412458",
+      "streetName": "Embarcadero del Mar",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 73.82
+    },
+    {
+      "id": "e12746",
+      "from": "165412460",
+      "to": "165412459",
+      "streetName": "Embarcadero del Mar",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 74.06
+    },
+    {
+      "id": "e12750",
+      "from": "164710553",
+      "to": "165412460",
+      "streetName": "Embarcadero del Mar",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 71.95
+    },
+    {
+      "id": "e12754",
+      "from": "165412461",
+      "to": "164710553",
+      "streetName": "Embarcadero del Mar",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 72.68
+    },
+    {
+      "id": "e12758",
+      "from": "165491681",
+      "to": "165379213",
+      "streetName": "Embarcadero del Norte",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 73.14
+    },
+    {
+      "id": "e12761",
+      "from": "165563315",
+      "to": "165491681",
+      "streetName": "Embarcadero del Norte",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 73.58
+    },
+    {
+      "id": "e12764",
+      "from": "165542250",
+      "to": "165563315",
+      "streetName": "Embarcadero del Norte",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 73.09
+    },
+    {
+      "id": "e12768",
+      "from": "7734796776",
+      "to": "165542250",
+      "streetName": "Embarcadero del Norte",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 74.22
+    },
+    {
+      "id": "e12770",
+      "from": "165314582",
+      "to": "5431668642",
+      "streetName": "Slough Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 21.71
+    },
+    {
+      "id": "e12775",
+      "from": "5329504705",
+      "to": "5329504703",
+      "streetName": "Berkshire Terrace",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 114.42
+    },
+    {
+      "id": "e12784",
+      "from": "5417172342",
+      "to": "5537337702",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 87.56
+    },
+    {
+      "id": "e12787",
+      "from": "5431668646",
+      "to": "5537337702",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 73.58
+    },
+    {
+      "id": "e12791",
+      "from": "5431668642",
+      "to": "5431668645",
+      "streetName": "Slough Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 34.22
+    },
+    {
+      "id": "e12793",
+      "from": "5417172342",
+      "to": "5431668646",
+      "streetName": "Storke Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 33.35
+    },
+    {
+      "id": "e12803",
+      "from": "13384422276",
+      "to": "5324758285",
+      "streetName": "Picasso Road",
+      "highway": "pedestrian",
+      "playable": true,
+      "lengthM": 100.36
+    },
+    {
+      "id": "e12817",
+      "from": "2910152085",
+      "to": "5329504703",
+      "streetName": "Camino del Sur",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 227.66
+    },
+    {
+      "id": "e12845",
+      "from": "165597190",
+      "to": "165597162",
+      "streetName": "West Campus Point Lane",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 369.14
+    },
+    {
+      "id": "e12847",
+      "from": "6106068052",
+      "to": "165597190",
+      "streetName": "West Campus Point Lane",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 18.84
+    },
+    {
+      "id": "e12863",
+      "from": "165564102",
+      "to": "6106068052",
+      "streetName": "West Campus Point Lane",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 196.4
+    },
+    {
+      "id": "e12864",
+      "from": "165597190",
+      "to": "164969757",
+      "streetName": "West Campus Point Lane",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 21.77
+    },
+    {
+      "id": "e12865",
+      "from": "165445703",
+      "to": "165445705",
+      "streetName": "Camino Majorca",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 63.66
+    },
+    {
+      "id": "e12868",
+      "from": "5431668641",
+      "to": "165314582",
+      "streetName": "Slough Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 22.13
+    },
+    {
+      "id": "e12870",
+      "from": "5431668647",
+      "to": "7599125226",
+      "streetName": "Storke Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 78.4
+    },
+    {
+      "id": "e12878",
+      "from": "165412460",
+      "to": "7734796776",
+      "streetName": "Pardall Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 151.68
+    },
+    {
+      "id": "e12879",
+      "from": "165412460",
+      "to": "649998464",
+      "streetName": "Pardall Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 50.62
+    },
+    {
+      "id": "e12898",
+      "from": "649754604",
+      "to": "7599618883",
+      "streetName": "West Campus Point Lane",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 344.18
+    },
+    {
+      "id": "e12910",
+      "from": "7972882007",
+      "to": "451490258",
+      "streetName": "Stadium Road",
+      "highway": "tertiary",
+      "playable": true,
+      "lengthM": 259.66
+    },
+    {
+      "id": "e12914",
+      "from": "14124001723",
+      "to": "7599125174",
+      "streetName": "Camino Corto",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 319.99
+    },
+    {
+      "id": "e12924",
+      "from": "860193350",
+      "to": "860193365",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 180.58
+    },
+    {
+      "id": "e12926",
+      "from": "566109424",
+      "to": "165321276",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 180.43
+    },
+    {
+      "id": "e12932",
+      "from": "860193315",
+      "to": "860193350",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 153.2
+    },
+    {
+      "id": "e12938",
+      "from": "860193371",
+      "to": "860193315",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 152.68
+    },
+    {
+      "id": "e12943",
+      "from": "165476543",
+      "to": "860193371",
+      "streetName": "Embarcadero del Norte",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 96.29
+    },
+    {
+      "id": "e12944",
+      "from": "860193371",
+      "to": "5327181123",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 171.01
+    },
+    {
+      "id": "e12948",
+      "from": "566109425",
+      "to": "7972882007",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 182.35
+    },
+    {
+      "id": "e12952",
+      "from": "165412450",
+      "to": "566109425",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 152.02
+    },
+    {
+      "id": "e12958",
+      "from": "165321276",
+      "to": "165412450",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 153.42
+    },
+    {
+      "id": "e12961",
+      "from": "4578473319",
+      "to": "566109424",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 172.51
+    },
+    {
+      "id": "e12965",
+      "from": "165317598",
+      "to": "4578473319",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 368.41
+    },
+    {
+      "id": "e12977",
+      "from": "5537337702",
+      "to": "165317598",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 215.62
+    },
+    {
+      "id": "e12980",
+      "from": "8253592464",
+      "to": "860193294",
+      "streetName": "Ocean Road",
+      "highway": "tertiary",
+      "playable": true,
+      "lengthM": 502.4
+    },
+    {
+      "id": "e12987",
+      "from": "860193282",
+      "to": "8253592464",
+      "streetName": "Ocean Road",
+      "highway": "tertiary",
+      "playable": true,
+      "lengthM": 494.37
+    },
+    {
+      "id": "e12989",
+      "from": "860193294",
+      "to": "5327181123",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 273.57
+    },
+    {
+      "id": "e12992",
+      "from": "165530456",
+      "to": "860193317",
+      "streetName": "El Colegio Road",
+      "highway": "tertiary",
+      "playable": true,
+      "lengthM": 73.43
+    },
+    {
+      "id": "e12996",
+      "from": "860193307",
+      "to": "860193348",
+      "streetName": "Ocean Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 57.56
+    },
+    {
+      "id": "e13005",
+      "from": "165602757",
+      "to": "165317627",
+      "streetName": "Pasado Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 141.96
+    },
+    {
+      "id": "e13023",
+      "from": "165579952",
+      "to": "165317630",
+      "streetName": "Trigo Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 142.29
+    },
+    {
+      "id": "e13038",
+      "from": "165445705",
+      "to": "165579952",
+      "streetName": "Trigo Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 142.8
+    },
+    {
+      "id": "e13051",
+      "from": "165573649",
+      "to": "165317633",
+      "streetName": "Sabado Tarde Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 142.21
+    },
+    {
+      "id": "e13057",
+      "from": "165506792",
+      "to": "14124001726",
+      "streetName": "Del Playa Drive",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 141.81
+    },
+    {
+      "id": "e13070",
+      "from": "5319326134",
+      "to": "165506792",
+      "streetName": "Del Playa Drive",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 142.2
+    },
+    {
+      "id": "e13077",
+      "from": "11525154662",
+      "to": "14124001723",
+      "streetName": "Camino Corto",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 96.2
+    },
+    {
+      "id": "e13080",
+      "from": "164710572",
+      "to": "7734796776",
+      "streetName": "Embarcadero del Norte",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 72.45
+    },
+    {
+      "id": "e13083",
+      "from": "165528252",
+      "to": "164710572",
+      "streetName": "Embarcadero del Norte",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 74.02
+    },
+    {
+      "id": "e13088",
+      "from": "165568874",
+      "to": "165528252",
+      "streetName": "Embarcadero del Norte",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 67.73
+    },
+    {
+      "id": "e13092",
+      "from": "5955757007",
+      "to": "566109424",
+      "streetName": "South Los Carneros Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 124.17
+    },
+    {
+      "id": "e13093",
+      "from": "5431668641",
+      "to": "7599125174",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 290.17
+    },
+    {
+      "id": "e13103",
+      "from": "165321282",
+      "to": "165379215",
+      "streetName": "El Greco Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 153.0
+    },
+    {
+      "id": "e13111",
+      "from": "165317630",
+      "to": "165317627",
+      "streetName": "Camino Corto",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 62.73
+    },
+    {
+      "id": "e13113",
+      "from": "165317633",
+      "to": "165317630",
+      "streetName": "Camino Corto",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 74.81
+    },
+    {
+      "id": "e13117",
+      "from": "14124001726",
+      "to": "165317633",
+      "streetName": "Camino Corto",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 76.6
+    },
+    {
+      "id": "e13121",
+      "from": "165412339",
+      "to": "165412338",
+      "streetName": "Camino del Sur",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 61.3
+    },
+    {
+      "id": "e13130",
+      "from": "165412341",
+      "to": "165412340",
+      "streetName": "Camino del Sur",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 76.49
+    },
+    {
+      "id": "e13131",
+      "from": "5431668642",
+      "to": "649754584",
+      "streetName": "Slough Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 28.97
+    },
+    {
+      "id": "e13142",
+      "from": "7756088362",
+      "to": "165317598",
+      "streetName": "San Joaquin Loop",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 65.17
+    },
+    {
+      "id": "e13148",
+      "from": "165491680",
+      "to": "165491681",
+      "streetName": "Picasso Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 146.89
+    },
+    {
+      "id": "e13149",
+      "from": "165445709",
+      "to": "5319326134",
+      "streetName": "Camino Majorca",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 76.2
+    },
+    {
+      "id": "e13156",
+      "from": "165445703",
+      "to": "165602757",
+      "streetName": "Pasado Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 141.89
+    },
+    {
+      "id": "e13159",
+      "from": "165573649",
+      "to": "165579952",
+      "streetName": "Camino Lindo",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 74.71
+    },
+    {
+      "id": "e13168",
+      "from": "165412338",
+      "to": "165412337",
+      "streetName": "Camino del Sur",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 107.26
+    },
+    {
+      "id": "e13171",
+      "from": "165379213",
+      "to": "165476543",
+      "streetName": "Embarcadero del Norte",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 74.37
+    },
+    {
+      "id": "e13174",
+      "from": "165379215",
+      "to": "165412452",
+      "streetName": "Embarcadero del Mar",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 74.22
+    },
+    {
+      "id": "e13178",
+      "from": "165321279",
+      "to": "860193350",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 97.5
+    },
+    {
+      "id": "e13181",
+      "from": "165321282",
+      "to": "165321279",
+      "streetName": "Camino Pescadero",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 74.02
+    },
+    {
+      "id": "e13182",
+      "from": "165412338",
+      "to": "7668180761",
+      "streetName": "Pasado Road",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 347.09
+    },
+    {
+      "id": "e13183",
+      "from": "860161075",
+      "to": "860193348",
+      "streetName": "Ocean Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 488.48
+    },
+    {
+      "id": "e13184",
+      "from": "165530456",
+      "to": "165337730",
+      "streetName": "Ocean Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 564.44
+    },
+    {
+      "id": "e13186",
+      "from": "7599125174",
+      "to": "860193358",
+      "streetName": "El Colegio Road",
+      "highway": "secondary",
+      "playable": true,
+      "lengthM": 366.82
+    },
+    {
+      "id": "e13187",
+      "from": "165412340",
+      "to": "165412339",
+      "streetName": "Camino del Sur",
+      "highway": "residential",
+      "playable": true,
+      "lengthM": 76.16
+    }
+  ]
+}

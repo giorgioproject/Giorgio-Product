@@ -1,0 +1,122 @@
+[
+  {
+    "id": "stearns-wharf",
+    "name": "Stearns Wharf",
+    "lat": 34.4103,
+    "lon": -119.6865,
+    "blurb": "Santa Barbara's historic pier at the end of State Street — shops, views, and the beach.",
+    "imageUrl": "/landmarks/stearns-wharf.jpg"
+  },
+  {
+    "id": "courthouse",
+    "name": "Santa Barbara County Courthouse",
+    "lat": 34.4243,
+    "lon": -119.7034,
+    "blurb": "A Spanish-Moorish landmark with a clock tower and views over downtown.",
+    "imageUrl": "/landmarks/courthouse.jpg"
+  },
+  {
+    "id": "granada-theatre",
+    "name": "Granada Theatre",
+    "lat": 34.4189,
+    "lon": -119.6989,
+    "blurb": "A restored 1920s movie palace on State Street — concerts and films downtown.",
+    "imageUrl": "/landmarks/granada-theatre.jpg"
+  },
+  {
+    "id": "arlington-theatre",
+    "name": "Arlington Theatre",
+    "lat": 34.4248,
+    "lon": -119.7052,
+    "blurb": "An outdoor-style theatre on State Street, built inside a former mortuary chapel.",
+    "imageUrl": "/landmarks/arlington-theatre.jpg"
+  },
+  {
+    "id": "funk-zone",
+    "name": "Funk Zone",
+    "lat": 34.4145,
+    "lon": -119.691,
+    "blurb": "The arts and wine district between the freeway and the waterfront.",
+    "imageUrl": "/landmarks/funk-zone.jpg"
+  },
+  {
+    "id": "mission",
+    "name": "Old Mission Santa Barbara",
+    "lat": 34.4295,
+    "lon": -119.713,
+    "blurb": "The 'Queen of the Missions' — a hilltop landmark just above downtown.",
+    "imageUrl": "/landmarks/mission.jpg"
+  },
+  {
+    "id": "el-presidio",
+    "name": "El Presidio de Santa Bárbara",
+    "lat": 34.4223,
+    "lon": -119.6987,
+    "blurb": "The last Spanish fort in California — adobe walls and a chapel near State Street.",
+    "imageUrl": "/landmarks/el-presidio.jpg"
+  },
+  {
+    "id": "casa-de-la-guerra",
+    "name": "Casa de la Guerra",
+    "lat": 34.4208,
+    "lon": -119.6996,
+    "blurb": "A 19th-century adobe home of a Spanish military commander — now a downtown museum.",
+    "imageUrl": "/landmarks/casa-de-la-guerra.jpg"
+  },
+  {
+    "id": "museum-of-art",
+    "name": "Santa Barbara Museum of Art",
+    "lat": 34.4224,
+    "lon": -119.7031,
+    "blurb": "Paintings and sculpture on State Street, steps from the courthouse.",
+    "imageUrl": "/landmarks/museum-of-art.jpg"
+  },
+  {
+    "id": "moxi",
+    "name": "MOXI Museum",
+    "lat": 34.4148,
+    "lon": -119.6877,
+    "blurb": "Hands-on science and creativity museum near the train station and waterfront.",
+    "imageUrl": "/landmarks/moxi.jpg"
+  },
+  {
+    "id": "public-library",
+    "name": "Santa Barbara Public Library",
+    "lat": 34.4198,
+    "lon": -119.7004,
+    "blurb": "The central library on Anapamu Street — a quiet landmark between State and the courthouse.",
+    "imageUrl": "/landmarks/public-library.jpg"
+  },
+  {
+    "id": "train-station",
+    "name": "Santa Barbara Amtrak Station",
+    "lat": 34.4134,
+    "lon": -119.6928,
+    "blurb": "The Spanish-colonial train station where Amtrak stops beside the waterfront.",
+    "imageUrl": "/landmarks/train-station.jpg"
+  },
+  {
+    "id": "historical-museum",
+    "name": "Santa Barbara Historical Museum",
+    "lat": 34.4215,
+    "lon": -119.7045,
+    "blurb": "Stories and artifacts from Santa Barbara's past, near El Presidio.",
+    "imageUrl": "/landmarks/historical-museum.jpg"
+  },
+  {
+    "id": "alice-keck-park",
+    "name": "Alice Keck Park",
+    "lat": 34.425,
+    "lon": -119.7015,
+    "blurb": "A downtown park with a koi pond, gardens, and turtles kids love to spot.",
+    "imageUrl": "/landmarks/alice-keck-park.jpg"
+  },
+  {
+    "id": "paseo-nuevo",
+    "name": "Paseo Nuevo",
+    "lat": 34.4178,
+    "lon": -119.6972,
+    "blurb": "An open-air shopping plaza on State Street with courtyards and fountains.",
+    "imageUrl": "/landmarks/paseo-nuevo.jpg"
+  }
+]

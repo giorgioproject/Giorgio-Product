@@ -1,0 +1,56 @@
+[
+  {
+    "id": "solvang-windmill",
+    "name": "Solvang Windmill",
+    "lat": 34.5959,
+    "lon": -120.1396,
+    "kind": "windmill",
+    "blurb": "A Danish-style windmill on Copenhagen Drive — one of the most photographed spots in Solvang.",
+    "imageUrl": "/landmarks/solvang-windmill.jpg"
+  },
+  {
+    "id": "mission-santa-ines",
+    "name": "Old Mission Santa Inés",
+    "lat": 34.5945,
+    "lon": -120.1368,
+    "kind": "monument",
+    "blurb": "A historic California mission from 1804 — church, museum, and gardens just above downtown.",
+    "imageUrl": "/landmarks/mission-santa-ines.jpg"
+  },
+  {
+    "id": "olsens-bakery",
+    "name": "Olsen's Danish Village Bakery",
+    "lat": 34.5954,
+    "lon": -120.1408,
+    "kind": "restaurant",
+    "blurb": "Danish pastries and kringle on Copenhagen Drive — the smell of cinnamon pulls you in from the street.",
+    "imageUrl": "/landmarks/olsens-bakery.jpg"
+  },
+  {
+    "id": "elverhoj-museum",
+    "name": "Elverhøj Museum",
+    "lat": 34.5938,
+    "lon": -120.1412,
+    "kind": "museum",
+    "blurb": "Art and history of Solvang's Danish founders — galleries in a house that feels like a storybook.",
+    "imageUrl": "/landmarks/elverhoj-museum.jpg"
+  },
+  {
+    "id": "solvang-festival-theater",
+    "name": "Solvang Festival Theater",
+    "lat": 34.5962,
+    "lon": -120.1375,
+    "kind": "theater",
+    "blurb": "Outdoor plays and concerts under the oaks — a summer tradition in the middle of town.",
+    "imageUrl": "/landmarks/solvang-festival-theater.jpg"
+  },
+  {
+    "id": "ingeborg-chocolates",
+    "name": "Ingeborg's Danish Chocolates",
+    "lat": 34.5951,
+    "lon": -120.1391,
+    "kind": "shop",
+    "blurb": "Handmade chocolates and gifts on Copenhagen Drive — sweet stop while you walk the Danish streets.",
+    "imageUrl": "/landmarks/ingeborg-chocolates.jpg"
+  }
+]

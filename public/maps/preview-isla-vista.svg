@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="#BAE6FD"/>
+  <rect y="200" width="400" height="100" fill="#FEF3C7"/>
+  <path stroke="#64748B" stroke-width="5" fill="none" d="M30 230 H370 M100 210 V270 M200 200 V280 M300 215 V265"/>
+  <text x="200" y="50" text-anchor="middle" fill="#0369A1" font-family="system-ui" font-size="22" font-weight="700">Isla Vista</text>
+</svg>

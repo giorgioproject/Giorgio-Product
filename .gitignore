@@ -39,3 +39,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# leftover local downloads (not part of the app)
+/node-v22.14.0-darwin-arm64/
+/node.tar.gz
+/music /

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "stearns-wharf",
+    "name": "Stearns Wharf",
+    "lat": 34.4103,
+    "lon": -119.6865,
+    "kind": "beach",
+    "blurb": "Santa Barbara's historic pier at the foot of State Street — seafood, souvenirs, and ocean views.",
+    "imageUrl": "/landmarks/stearns-wharf.jpg"
+  },
+  {
+    "id": "courthouse",
+    "name": "Santa Barbara County Courthouse",
+    "lat": 34.4243,
+    "lon": -119.7034,
+    "kind": "monument",
+    "blurb": "Spanish-Moorish architecture with a clock tower — climb for one of the best views over downtown.",
+    "imageUrl": "/landmarks/courthouse.jpg"
+  },
+  {
+    "id": "granada-theatre",
+    "name": "Granada Theatre",
+    "lat": 34.4189,
+    "lon": -119.6989,
+    "kind": "theater",
+    "blurb": "A restored 1920s movie palace on State Street — films, concerts, and a glowing marquee at night.",
+    "imageUrl": "/landmarks/granada-theatre.jpg"
+  },
+  {
+    "id": "arlington-theatre",
+    "name": "Arlington Theatre",
+    "lat": 34.4248,
+    "lon": -119.7052,
+    "kind": "theater",
+    "blurb": "An indoor-outdoor theatre on State Street — built inside a former mortuary chapel with stars on the ceiling.",
+    "imageUrl": "/landmarks/arlington-theatre.jpg"
+  },
+  {
+    "id": "funk-zone",
+    "name": "Funk Zone",
+    "lat": 34.4145,
+    "lon": -119.691,
+    "kind": "shop",
+    "blurb": "Murals, wine tasting, and galleries between the freeway and the beach — artsy blocks off State.",
+    "imageUrl": "/landmarks/funk-zone.jpg"
+  },
+  {
+    "id": "el-presidio",
+    "name": "El Presidio de Santa Bárbara",
+    "lat": 34.4223,
+    "lon": -119.6987,
+    "kind": "monument",
+    "blurb": "The last Spanish fort in California — adobe walls and a chapel a short walk from State Street.",
+    "imageUrl": "/landmarks/el-presidio.jpg"
+  },
+  {
+    "id": "moxi",
+    "name": "MOXI Museum",
+    "lat": 34.4148,
+    "lon": -119.6877,
+    "kind": "museum",
+    "blurb": "Hands-on science and creativity near the train station — rooftop views toward the mountains.",
+    "imageUrl": "/landmarks/moxi.jpg"
+  },
+  {
+    "id": "paseo-nuevo",
+    "name": "Paseo Nuevo",
+    "lat": 34.4178,
+    "lon": -119.6972,
+    "kind": "building",
+    "blurb": "Open-air shopping on State Street — courtyards, fountains, and stores under Spanish-style arches.",
+    "imageUrl": "/landmarks/paseo-nuevo.jpg"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "id": "isla-vista",
+    "name": "Isla Vista",
+    "difficulty": "Easy",
+    "ghostCount": 1,
+    "graphFile": "graph-isla-vista.json",
+    "landmarksFile": "landmarks-isla-vista.json",
+    "previewImage": "/maps/preview-isla-vista.svg",
+    "landscapeImage": "/maps/landscape-isla-vista.jpg",
+    "pelletCount": 35,
+    "pelletSpacingM": 160,
+    "playerSpeedMps": 300
+  },
+  {
+    "id": "solvang",
+    "name": "Solvang",
+    "difficulty": "Medium",
+    "ghostCount": 2,
+    "graphFile": "graph-solvang.json",
+    "landmarksFile": "landmarks-solvang.json",
+    "previewImage": "/maps/preview-solvang.svg",
+    "landscapeImage": "/maps/landscape-solvang.jpg",
+    "pelletCount": 45,
+    "pelletSpacingM": 180,
+    "playerSpeedMps": 320
+  },
+  {
+    "id": "downtown-santa-barbara",
+    "name": "Downtown Santa Barbara",
+    "difficulty": "Hard",
+    "ghostCount": 4,
+    "graphFile": "graph-downtown-santa-barbara.json",
+    "landmarksFile": "landmarks-downtown-santa-barbara.json",
+    "previewImage": "/maps/preview-downtown-santa-barbara.svg",
+    "landscapeImage": "/maps/landscape-downtown-waterfront.jpg",
+    "pelletCount": 60,
+    "pelletSpacingM": 220,
+    "playerSpeedMps": 460
+  }
+]
